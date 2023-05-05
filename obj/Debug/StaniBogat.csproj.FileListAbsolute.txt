@@ -1,0 +1,13 @@
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\bin\Debug\Quizz11d.mdf
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\bin\Debug\Quizz11d_log.ldf
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\bin\Debug\StaniBogat.exe.config
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\bin\Debug\StaniBogat.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\bin\Debug\StaniBogat.pdb
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.exe
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.pdb
+C:\Users\STUDENTS-STEM-22\Desktop\11d\Razrabotkanasoft\StaniBogat\obj\Debug\StaniBogat.Form1.resources
